@@ -1,0 +1,1 @@
+The project is about, churn prediction and analysis will let e-commerce businesses know which customers are likely to migrate and when. In order to implement the appropriate retention steps to lessen or prevent their migration.
